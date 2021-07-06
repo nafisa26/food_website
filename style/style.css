@@ -1,0 +1,110 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-style: normal;
+	color: #828176;
+	line-height: 150%;
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	display: flex;
+}
+
+.half-width{
+	width: 45%;
+	margin: 5%;
+}
+
+.text{
+	margin-top: 15%;
+}
+
+.half-width h1{
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 67%;
+	color: #6d6c62;
+
+}
+
+.link-button{
+	text-decoration: none;
+    background: linear-gradient(55deg, #ffb347, #ff4500);
+    padding: 20px 45px;
+    border-radius: 55px;
+    color: white;
+    font-weight: 700;
+}
+
+.half-width img{
+	width: 100%;
+}
+
+.para{
+	margin-bottom: 15%;
+}
+
+.container2{
+	display: flex;
+	background-image: url(../images/shapes/7.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.font{
+	font-size: 25;
+	font-family: helvetica;
+	color: black;
+
+}
+
+#img2{
+	width: 65%;
+	margin-left: 15%;
+	padding-top: 10%;
+}
+
+.title-font{
+	font-size: 40px;
+}
+
+.title{
+    display: block;
+    text-align: center;
+    margin: 3% 20%;
+}
+.recipies{
+    display: flex;
+    margin: 0% 7%;
+}
+
+.recipi-card img{
+	padding: ;
+	width: 100%;
+}
+
+.recipi-card{
+    width: 25%;
+    margin-left: 5%;
+    padding: 2%;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 35px;
+    background: white;
+}
+
+.recipi-title{
+    font-weight: 700;
+    line-height: 16px;
+    font-size: 30px;
+    color: black;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 3% 0% 10%;
+}
+footer h2{
+    color: #6f6767;
+}
